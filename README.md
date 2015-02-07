@@ -1,2 +1,7 @@
 # c2s-completion
-Zsh completion support for c2s.
+Minimal working example of zsh completion support for [c2s](https://github.com/lucastheis/c2s).
+
+## TODO
+
+* improve zsh support
+* add bash support

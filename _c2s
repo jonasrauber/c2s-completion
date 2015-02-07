@@ -1,0 +1,4 @@
+#compdef c2s
+
+_arguments "1:c2s subcommand:(preprocess predict train evaluate leave-one-out info visualize)" \
+  "*: :_files"
